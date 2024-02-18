@@ -1,0 +1,601 @@
+#EXTM3U
+#EXTINF:0,Telemundo
+#EXTGRP:unsorted
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:0,Saber Mas
+#EXTGRP:unsorted
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-sabermas-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=xAoXwfNRpzqfb4QF8JUB&channelId=6018913ea15130002b284195
+#EXTINF:0,Nick Latino
+#EXTGRP:unsorted
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7ff371-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c59413c7-c50b-4407-b45a-db56bbc21724&userId=&serverSideAds=true
+#EXTINF:0,Death Note
+#EXTGRP:unsorted
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Yu-Gi-Oh
+#EXTGRP:unsorted
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c04e45b2-630a-11eb-8d9f-f313ae1a2a61&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=681f0ed2-2ad0-493f-9d9a-c9491e58c9ff&userId=&serverSideAds=true
+#EXTINF:0,Anime
+#EXTGRP:unsorted
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e91-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bf9f2657-23e0-4f9a-aed5-1895900d08da&userId=&serverSideAds=true
+#EXTINF:0,Locomotion
+#EXTGRP:unsorted
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:0,EnerGeek 2
+#EXTGRP:unsorted
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Moni TV HD
+#EXTGRP:unsorted
+https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,TruTv HD
+#EXTGRP:unsorted
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE03.m3u8
+#EXTINF:0,Fanpop TV | Chile
+#EXTGRP:unsorted
+https://wifiexpert-1.energeek.cl/energeek/canal-2/playlist.m3u8
+#EXTINF:0,Fanpop TV op | Chile
+#EXTGRP:unsorted
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+#EXTINF:0,Magic Kids | Argentina
+#EXTGRP:unsorted
+https://magicstream.ddns.net:443/magicstream/stream.m3u8
+#EXTINF:0,Wow Movies | Colombia
+#EXTGRP:unsorted
+https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
+#EXTINF:0,Heidi y Maya | ND
+#EXTGRP:unsorted
+https://daiconnect.com/live/hls/tvup/tvfy-pljr/b8ee129e0585ae0c1eb5b4187f8e4fa7/.m3u8
+#EXTINF:0,Los Pitufos TV | ND
+#EXTGRP:unsorted
+https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
+#EXTINF:0,Pandamax  | Argentina
+#EXTGRP:unsorted
+https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
+#EXTINF:0,Pluto TV Cine Clásico
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Hallmark en español
+#EXTGRP:unsorted
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65453ee6056b97000880302a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=d4937ac0-aea9-11ee-9ee8-e966280f4d97&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2fcd33ab-35aa-42d4-9c10-a6a50ad7ec58&userId=&serverSideAds=true
+#EXTINF:0,Nickelodeon en español
+#EXTGRP:unsorted
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=d4949306-aea9-11ee-9e87-e966280f4d97&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bb1ca830-b4f9-49e8-b048-672a49a3069e&userId=&serverSideAds=true
+#EXTINF:0,Cine navideño
+#EXTGRP:unsorted
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6334a4d7ae975100073994a2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=d494b098-aea9-11ee-a431-e966280f4d97&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=583bc837-2fb3-47c6-b825-6c27402ef07f&userId=&serverSideAds=true
+#EXTINF:0,Séptimo arte
+#EXTGRP:unsorted
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=d494b250-aea9-11ee-a764-e966280f4d97&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0bf7812a-e66e-4df1-820d-5e6ad6d37508&userId=&serverSideAds=true
+#EXTINF:0,Cine Clásico
+#EXTGRP:unsorted
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b9671cdac71b0008f371df/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=d494b2dc-aea9-11ee-96fd-e966280f4d97&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ec3a0bd6-dff0-448a-a0b4-dea9586d0887&userId=&serverSideAds=true
+#EXTINF:0,Pelis y Popcorn
+#EXTGRP:unsorted
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=d494b39a-aea9-11ee-8538-e966280f4d97&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b745d0a4-08b6-4eef-a6ef-d1a95b1e72e5&userId=&serverSideAds=true
+#EXTINF:0,Cine adrenalina
+#EXTGRP:unsorted
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=d494b4f8-aea9-11ee-ae36-e966280f4d97&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7ec8d79e-df7b-4e56-8408-0e52120d0edd&userId=&serverSideAds=true
+#EXTINF:0,Cine terror
+#EXTGRP:unsorted
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=d494b58e-aea9-11ee-9287-e966280f4d97&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c67f7eb1-eef3-4caf-957a-527db678466a&userId=&serverSideAds=true
+#EXTINF:0,Cine ¡¡jaja!!
+#EXTGRP:unsorted
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=d494b764-aea9-11ee-9dfe-e966280f4d97&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d5a4efbe-0370-40fd-b3f3-571057b154ed&userId=&serverSideAds=true
+#EXTINF:0,Cine XOXO
+#EXTGRP:unsorted
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=d494b85e-aea9-11ee-bb73-e966280f4d97&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9132eb7-da32-42bf-8a7b-115df9c6d8a5&userId=&serverSideAds=true
+#EXTINF:0,Telemundo telenovelas clásicas
+#EXTGRP:unsorted
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=d494b8fe-aea9-11ee-9c24-e966280f4d97&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b73fed95-4ae7-4e9f-8fa2-e942379dc4fc&userId=&serverSideAds=true
+#EXTINF:0,Amantes del romance
+#EXTGRP:unsorted
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=d494bb1a-aea9-11ee-99bc-e966280f4d97&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=52d1d626-2e0a-4ba2-bdfa-0749bcac6071&userId=&serverSideAds=true
+#EXTINF:0,Badass novelas
+#EXTGRP:unsorted
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=d49595c6-aea9-11ee-b8e0-e966280f4d97&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6e0b70a4-eb81-47be-aadd-e407c18e8358&userId=&serverSideAds=true
+#EXTINF:0,Entre nosotras
+#EXTGRP:unsorted
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492c67f4c48700075b5d37/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=d4959828-aea9-11ee-a8bc-e966280f4d97&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=24d6abac-ed57-420b-96cb-3f2a61d20eb0&userId=&serverSideAds=true
+#EXTINF:0,Series con Ñ
+#EXTGRP:unsorted
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb3087fbbc120007fc46be/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=d49598dc-aea9-11ee-bbd9-e966280f4d97&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=25fd3ac4-f6b8-4f9e-8a3f-59fb8f2c3248&userId=&serverSideAds=true
+#EXTINF:0,Crímenes imperfectos
+#EXTGRP:unsorted
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e94cd036cc69d0007e8a1ba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=d4959b8e-aea9-11ee-98ed-e966280f4d97&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9f088c90-b8a9-4bf0-9808-e3169505a718&userId=&serverSideAds=true
+#EXTINF:0,Misterios sin resolver
+#EXTGRP:unsorted
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d882d5233170007ee880e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=d4959cec-aea9-11ee-bc13-e966280f4d97&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=66a35621-2352-4c48-b789-26bc7df5912c&userId=&serverSideAds=true
+#EXTINF:0,Investiga
+#EXTGRP:unsorted
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=d4959dc8-aea9-11ee-b494-e966280f4d97&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=814307c8-c6f6-4978-a0e2-97bb72e7eba9&userId=&serverSideAds=true
+#EXTINF:0,Sony Canal Escape Perfecto
+#EXTGRP:unsorted
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/605e479d5b8229000763e697/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=d495a0c0-aea9-11ee-8c33-e966280f4d97&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=409506bf-3604-4157-8c6d-7ad18001d827&userId=&serverSideAds=true
+#EXTINF:0,EstrellaTV
+#EXTGRP:unsorted
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=d495a354-aea9-11ee-825b-e966280f4d97&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6d3aa29d-e413-4619-82c4-bfd3acc5bf7a&userId=&serverSideAds=true
+#EXTINF:0,Casos de la Dra. Polo
+#EXTGRP:unsorted
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d393e5579a420007ee553c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=d495a3e0-aea9-11ee-9611-e966280f4d97&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1350cc9d-15aa-4f59-8af4-3475ad976799&userId=&serverSideAds=true
+#EXTINF:0,Comedy Central en español
+#EXTGRP:unsorted
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=d495a52a-aea9-11ee-a28b-e966280f4d97&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a6ec186b-026a-460e-bbd5-e10392dd68ae&userId=&serverSideAds=true
+#EXTINF:0,Hell Kitchen
+#EXTGRP:unsorted
+https://images.pluto.tv/channels/60492b2794116800073e32dc/colorLogoPNG.png"
+#EXTINF:0,Foodies
+#EXTGRP:unsorted
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=d495a64c-aea9-11ee-b72d-e966280f4d97&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2c5f6050-6d52-4bd9-9cd8-aa40fa0bb13b&userId=&serverSideAds=true
+#EXTINF:0,Mundo paranormal
+#EXTGRP:unsorted
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492a9bbca75b0007b1bfd5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=d495a70a-aea9-11ee-9fb9-e966280f4d97&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8d6afd0c-b8e3-4f27-b4ac-a9040111bb2d&userId=&serverSideAds=true
+#EXTINF:0,Mundo viajero
+#EXTGRP:unsorted
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60511efd71ec430007f50d97/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=d495a7aa-aea9-11ee-8204-e966280f4d97&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f4ef6e62-db74-400b-969b-36c4cfd894ae&userId=&serverSideAds=true
+#EXTINF:0,Mundo geek
+#EXTGRP:unsorted
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6051201a0aa8a70007c24a2a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=d495a840-aea9-11ee-bf03-e966280f4d97&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2ad827f0-2da7-467f-b3b4-863f689364da&userId=&serverSideAds=true
+#EXTINF:0,Estrella News
+#EXTGRP:unsorted
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492e6d7f3f560007ab0f62/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=d495a8cc-aea9-11ee-b1e4-e966280f4d97&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=66f9a0bb-4d43-4fac-91cc-65540e6574cf&userId=&serverSideAds=true
+#EXTINF:0,Euronews
+#EXTGRP:unsorted
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492dcf1c9b6a00089f41df/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=d495a96c-aea9-11ee-b408-e966280f4d97&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=45195df6-7e9a-4b65-ba9d-148c00372858&userId=&serverSideAds=true
+#EXTINF:0,Telefe noticias
+#EXTGRP:unsorted
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492d5522166000071a73c8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=d495a9f8-aea9-11ee-c08c-e966280f4d97&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fd6a5038-5668-4764-9d9c-fb7e3869c51b&userId=&serverSideAds=true
+#EXTINF:0,AMC en Español
+#EXTGRP:unsorted
+https://i.mjh.nz/SamsungTVPlus/USBD7000017L.m3u8
+#EXTINF:0,Zona TUDN
+#EXTGRP:unsorted
+https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
+#EXTINF:0,Telemundo California
+#EXTGRP:unsorted
+https://i.mjh.nz/SamsungTVPlus/USBC4400020H7.m3u8
+#EXTINF:0,Telemundo Al Día
+#EXTGRP:unsorted
+https://i.mjh.nz/SamsungTVPlus/USBB3200016HO.m3u8
+#EXTINF:0,CNN RESUMEN
+#EXTGRP:unsorted
+https://i.mjh.nz/SamsungTVPlus/USBC10000223W.m3u8
+#EXTINF:0,Estrella TV
+#EXTGRP:unsorted
+https://i.mjh.nz/SamsungTVPlus/USBA300040WR.m3u8
+#EXTINF:0,Estrella News
+#EXTGRP:unsorted
+https://i.mjh.nz/SamsungTVPlus/USAJ2200020N4.m3u8
+#EXTINF:0,Estrella Games
+#EXTGRP:unsorted
+https://i.mjh.nz/SamsungTVPlus/USBC24000145I.m3u8
+#EXTINF:0,Sony Canal Competencias
+#EXTGRP:unsorted
+https://i.mjh.nz/SamsungTVPlus/USAJ3504719A.m3u8
+#EXTINF:0,Sony Canal Comedias
+#EXTGRP:unsorted
+https://i.mjh.nz/SamsungTVPlus/USAJ22000057N.m3u8
+#EXTINF:0,Sony Canal Novelas
+#EXTGRP:unsorted
+https://i.mjh.nz/SamsungTVPlus/USAJ3000002OC.m3u8
+#EXTINF:0,ViX Novelas de romance
+#EXTGRP:unsorted
+https://i.mjh.nz/SamsungTVPlus/USBB44000099N.m3u8
+#EXTINF:0,Las 3 Marías
+#EXTGRP:unsorted
+https://i.mjh.nz/SamsungTVPlus/USBD17000172A.m3u8
+#EXTINF:0,ViX Grandes Parejas
+#EXTGRP:unsorted
+https://i.mjh.nz/SamsungTVPlus/USBC2100012EJ.m3u8
+#EXTINF:0,ViX Villanos de Novela
+#EXTGRP:unsorted
+https://i.mjh.nz/SamsungTVPlus/USBC2100011WI.m3u8
+#EXTINF:0,ViX JaJaJa
+#EXTGRP:unsorted
+https://i.mjh.nz/SamsungTVPlus/USBC2100010OS.m3u8
+#EXTINF:0,Rebelde
+#EXTGRP:unsorted
+https://i.mjh.nz/SamsungTVPlus/USBD1700018II.m3u8
+#EXTINF:0,Galanes
+#EXTGRP:unsorted
+https://i.mjh.nz/SamsungTVPlus/USBD2700002DU.m3u8
+#EXTINF:0,Cine Retro
+#EXTGRP:unsorted
+https://i.mjh.nz/SamsungTVPlus/USBD2500022U5.m3u8
+#EXTINF:0,Cine de Oro
+#EXTGRP:unsorted
+https://i.mjh.nz/SamsungTVPlus/USBD2700005KL.m3u8
+#EXTINF:0,Como Dice el Dicho
+#EXTGRP:unsorted
+https://i.mjh.nz/SamsungTVPlus/USBD2700004ME.m3u8
+#EXTINF:0,Pequenos Gigantes
+#EXTGRP:unsorted
+https://i.mjh.nz/SamsungTVPlus/USBD2700003F3.m3u8
+#EXTINF:0,Aquí y Ahora
+#EXTGRP:unsorted
+https://i.mjh.nz/SamsungTVPlus/USBD1700015J1.m3u8
+#EXTINF:0,Noticias Univision 24/7
+#EXTGRP:unsorted
+https://i.mjh.nz/SamsungTVPlus/USBD1700014QU.m3u8
+#EXTINF:0,Cine Romantico
+#EXTGRP:unsorted
+https://i.mjh.nz/SamsungTVPlus/USBA3800001E0.m3u8
+#EXTINF:0,Nick Latino
+#EXTGRP:unsorted
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7ff371-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c59413c7-c50b-4407-b45a-db56bbc21724&userId=&serverSideAds=true
+#EXTINF:0,NickTeen
+#EXTGRP:unsorted
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=c9e73ae3-bf04-4f52-a57d-c955d6cbef86&clientModelNumber=na&deviceDNT=false&deviceId=c9e73ae3-bf04-4f52-a57d-c955d6cbef86&deviceLat=-34.6011&deviceLon=-58.3847&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.90&marketingRegion=VE&serverSideAds=true&sessionID=aec89e2d-8415-11eb-850e-0242ac110002&sid=aec89e2d-8415-11eb-850e-0242ac110002&userId=
+#EXTINF:0,Death Note
+#EXTGRP:unsorted
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Yu-Gi-Oh
+#EXTGRP:unsorted
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c04e45b2-630a-11eb-8d9f-f313ae1a2a61&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=681f0ed2-2ad0-493f-9d9a-c9491e58c9ff&userId=&serverSideAds=true
+#EXTINF:0,Anime
+#EXTGRP:unsorted
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e91-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bf9f2657-23e0-4f9a-aed5-1895900d08da&userId=&serverSideAds=true
+#EXTINF:0,Moni TV HD
+#EXTGRP:unsorted
+https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,PlanetaTV Kids
+#EXTGRP:unsorted
+https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Latino | A&E
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/20
+#EXTINF:0,Latino | A3S
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/565
+#EXTINF:0,Latino | ADN40
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/9
+#EXTINF:0,Latino | Adrenalina Sports Network
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1301
+#EXTINF:0,Latino | AMC
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/78
+#EXTINF:0,Latino | America TV
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1237
+#EXTINF:0,Latino | Animal Planet
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/61
+#EXTINF:0,Latino | Antena 3 INT
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/564
+#EXTINF:0,Latino | AXN
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/21
+#EXTINF:0,Latino | AXN White
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/609
+#EXTINF:0,Latino | AZ Cinema
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/72
+#EXTINF:0,Latino | AZ Corazon
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/29
+#EXTINF:0,Latino | AZ Mundo
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/41
+#EXTINF:0,Latino | Azteca 1
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/458
+#EXTINF:0,Latino | Azteca 7
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/6
+#EXTINF:0,Latino | beIN Sports
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/381
+#EXTINF:0,Latino | beIN Sports La Liga
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/626
+#EXTINF:0,Latino | Cartoonito
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/52
+#EXTINF:0,Latino | Canal 11
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/467
+#EXTINF:0,Latino | Canal 5
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1457
+#EXTINF:0,Latino | Canal De Las Estrellas
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/3
+#EXTINF:0,Latino | Caracol
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/284
+#EXTINF:0,Latino | Caracol Int
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1243
+#EXTINF:0,Latino | Cartoon Network
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/50
+#EXTINF:0,Latino | Caza y Pezca
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1228
+#EXTINF:0,Latino | Cinecanal
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/73
+#EXTINF:0,Latino | CineLatino
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/303
+#EXTINF:0,Latino | Cinemax
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/82
+#EXTINF:0,Latino | CNN en Espanol
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/105
+#EXTINF:0,Latino | Comedy Central
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/23
+#EXTINF:0,Latino | De Pelicula
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/85
+#EXTINF:0,Latino | Discovery Channel
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/60
+#EXTINF:0,Latino | Discovery en Espanol
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/567
+#EXTINF:0,Latino | Discovery Familia
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/253
+#EXTINF:0,Latino | Discovery H&H
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/62
+#EXTINF:0,Latino | Discovery ID
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/32
+#EXTINF:0,Latino | Discovery Kids
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/43
+#EXTINF:0,Latino | Discovery Science
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/110
+#EXTINF:0,Latino | Discovery Theater
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/56
+#EXTINF:0,Latino | Discovery TLC
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/65
+#EXTINF:0,Latino | Discovery Turbo
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/285
+#EXTINF:0,Latino | Discovery World
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/59
+#EXTINF:0,Latino | Disney Channel
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/46
+#EXTINF:0,Latino | Disney JR
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/44
+#EXTINF:0,Latino | Distrito Comedia
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/38
+#EXTINF:0,Latino | E!
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/30
+#EXTINF:0,Latino | El Gourmet
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/34
+#EXTINF:0,Latino | ESPN
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/97
+#EXTINF:0,Latino | ESPN 2
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1456
+#EXTINF:0,Latino | ESPN 3
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/91
+#EXTINF:0,Latino | ESPN Deportes
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/528
+#EXTINF:0,Latino | ESPN Plus
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/90
+#EXTINF:0,Latino | Estrella TV
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/418
+#EXTINF:0,Latino | Food Network
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/27
+#EXTINF:0,Latino | Fox Sports
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/92
+#EXTINF:0,Latino | Fox Sports 2
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/93
+#EXTINF:0,Latino | Fox Sports 3
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/100
+#EXTINF:0,Latino | Fox Sports Premium
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/992
+#EXTINF:0,Latino | FX
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/19
+#EXTINF:0,Latino | Glitz
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/36
+#EXTINF:0,Latino | Golden Edge
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/84
+#EXTINF:0,Latino | Golden Plus
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/75
+#EXTINF:0,Latino | Golden Premier
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/83
+#EXTINF:0,Latino | Golf Channel
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/89
+#EXTINF:0,Latino | HBO
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/120
+#EXTINF:0,Latino | HBO 2
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/121
+#EXTINF:0,Latino | HBO Family
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/119
+#EXTINF:0,Latino | HBO Plus
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/610
+#EXTINF:0,Latino | HBO PoP
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/117
+#EXTINF:0,Latino | HBO Signature
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/118
+#EXTINF:0,Latino | HBO Xtreme
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/298
+#EXTINF:0,Latino | HGTV
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1425
+#EXTINF:0,Latino | History 2
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/289
+#EXTINF:0,Latino | History Channel
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/57
+#EXTINF:0,Latino | Lifetime
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/64
+#EXTINF:0,Latino | MTV
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/620
+#EXTINF:0,Latino | Multimedios
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/14
+#EXTINF:0,Latino | Nat Geo
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/63
+#EXTINF:0,Latino | Nick
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/48
+#EXTINF:0,Latino | Nick Jr
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/45
+#EXTINF:0,Latino | Nicktoons
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/47
+#EXTINF:0,Latino | Paramount
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1166
+#EXTINF:0,Latino | Pasiones
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/305
+#EXTINF:0,Latino | RCN
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/302
+#EXTINF:0,Latino | Sony
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/16
+#EXTINF:0,Latino | Space
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/79
+#EXTINF:0,Latino | Star Channel
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/15
+#EXTINF:0,Latino | Starz Encore
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/651
+#EXTINF:0,Latino | Studio Universal
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/86
+#EXTINF:0,Latino | USA Network
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/31
+#EXTINF:0,Latino | TNT Novelas
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/39
+#EXTINF:0,Latino | TCM
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/88
+#EXTINF:0,Latino | Telehit
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/422
+#EXTINF:0,Latino | Telemundo Int
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/54
+#EXTINF:0,Latino | TLnovelas
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/40
+#EXTINF:0,Latino | TNT
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/74
+#EXTINF:0,Latino | TNT Series
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/33
+#EXTINF:0,Latino | Tooncast
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/55
+#EXTINF:0,Latino | TruTV
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/22
+#EXTINF:0,Latino | TVC
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/28
+#EXTINF:0,Latino | TyC Sports
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/288
+#EXTINF:0,Latino | Unicable
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/24
+#EXTINF:0,Latino | Universal TV
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/18
+#EXTINF:0,Latino | VH1
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/625
+#EXTINF:0,Latino | Warner
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/17
+#EXTINF:0,Latino | Win Sports
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/297
+#EXTINF:0,Latino | Win Sports +
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1417
+#EXTINF:0,Latino | Universal  Premiere
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1661
+#EXTINF:0,Latino | Universal Cinema
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1662
+#EXTINF:0,Latino | Universal Crime
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1663
+#EXTINF:0,Latino | Universal Reality
+#EXTGRP:unsorted
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1664
+#EXTINF:0,Azteca Internacional
+#EXTGRP:unsorted
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:0,Canal 12
+#EXTGRP:unsorted
+https://d273tvzn6z86cs.cloudfront.net/Canal12SV/d8d7dedcfe37a9a9da9d9f69058b82b7.sdp/playlist.m3u8
+#EXTINF:0,Canal 2
+#EXTGRP:unsorted
+https://telecorporacion-es.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/playlist.m3u8
+#EXTINF:0,Canal 6
+#EXTGRP:unsorted
+https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/playlist.m3u8
+#EXTINF:0,Golden Premier
+#EXTGRP:unsorted
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+#EXTINF:0,Las Estrellas Latin America
+#EXTGRP:unsorted
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:0,TCS+
+#EXTGRP:unsorted
+https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/playlist.m3u8
+#EXTINF:0,TVX
+#EXTGRP:unsorted
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TVX.m3u8
+#EXTINF:0,ViX Jajaja
+#EXTGRP:unsorted
+https://d1406h321fcaxw.cloudfront.net/dist/samsungtv/310/hls/master/playlist.m3u8
